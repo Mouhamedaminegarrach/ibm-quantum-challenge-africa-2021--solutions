@@ -111,6 +111,7 @@ Finally, you need to tweak the setup of the quantum chemistry algorithm (without
 
 # Thanks, IBM, Amira Abbas african_mentor for well-prepared notebooks. Looking forward to the next Quantum Challenge! :)
 
-# you can view my verification badge from IBM : https://www.credly.com/earner/earned/badge/96c7f05f-0d62-4d83-b1da-6caa75e85ddd
+# you can view my verification badge from IBM : 
+https://www.credly.com/earner/earned/badge/96c7f05f-0d62-4d83-b1da-6caa75e85ddd
 
 ![image](https://user-images.githubusercontent.com/78730355/134781418-010238a4-2792-4092-8059-afcd4c086e87.png)
